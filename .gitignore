@@ -1,0 +1,9 @@
+target/
+logs/
+application.properties
+
+.idea
+.mvn
+mvnw
+mvnw.cmd
+*.iml
